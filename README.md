@@ -30,4 +30,4 @@ https://etherscan.io/address/0x4e1f41613c9084fdb9e34e11fae9412427480e56
 
 ### DM me on discord with any questions @ hgoood#7026
 
-### Feel free to fork this and build with it!
+### Feel free to fork this and build with it! Would appreciate an attribute if you use this on your site so I can gain some exposure.
