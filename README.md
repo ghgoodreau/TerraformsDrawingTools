@@ -10,7 +10,7 @@
 
 https://etherscan.io/address/0x4e1f41613c9084fdb9e34e11fae9412427480e56
 
-#####USAGE GUIDE
+##### USAGE GUIDE
 
 - Step 1. Make sure your token is in a dreaming state. You can visit the link above and write in function number 6. enterDream to do this.
 
@@ -28,6 +28,6 @@ https://etherscan.io/address/0x4e1f41613c9084fdb9e34e11fae9412427480e56
 
 ---
 
-###DM me on discord with any questions @ hgoood#7026
+### DM me on discord with any questions @ hgoood#7026
 
-###Feel free to fork this and build with it!
+### Feel free to fork this and build with it!
