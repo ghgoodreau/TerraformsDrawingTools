@@ -20,7 +20,7 @@ https://etherscan.io/address/0x4e1f41613c9084fdb9e34e11fae9412427480e56
 
 - Step 4. When satisfied, open the developer console in your browser.
 
-- Step 5. Paste the code provided below into your developer console.
+- Step 5. Paste the code provided in terraformsDrawingGrabber.js into your developer console.
 
 - Step 6. The output should be an array of 16 BigInts. This is what you will place into the second field into the commitDreamToCanvas function. The first field will be your tokenId.
 
@@ -29,3 +29,5 @@ https://etherscan.io/address/0x4e1f41613c9084fdb9e34e11fae9412427480e56
 ---
 
 ###DM me on discord with any questions @ hgoood#7026
+
+###Feel free to fork this and build with it!
